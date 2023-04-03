@@ -68,7 +68,6 @@ We chose to work with JIRA  because it is the industry standard for planning and
 
 [JIRA](https://curiousgrape.atlassian.net/jira/software/projects/P3/boards/1)
 
-![JIRA](https://drive.google.com/uc?id=1VNBeXlt2p9Lvjl9T5zNsIJwjalt6Xp0h)
 <img width="1440" alt="jira" src="https://user-images.githubusercontent.com/40352055/229467187-0e71f458-9bf9-45bb-90dc-576bb0f96cb3.png">
 
 
