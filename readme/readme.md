@@ -244,7 +244,7 @@ start()
 
 Once that was connected, I could test that it was working in my terminal by using the command line to search for objects that were saved in my database.
 
-![query](https://drive.google.com/uc?id=1kKFcz1IYmY7LQWI_adERrE4ic5euSZLL)
+<img width="862" alt="query" src="https://user-images.githubusercontent.com/40352055/229468147-634cffaa-81bc-41c2-b763-b5e5667a9b3e.png">
 
 ```
 with app.app_context():
