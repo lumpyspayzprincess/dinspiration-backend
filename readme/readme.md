@@ -69,6 +69,8 @@ We chose to work with JIRA  because it is the industry standard for planning and
 [JIRA](https://curiousgrape.atlassian.net/jira/software/projects/P3/boards/1)
 
 ![JIRA](https://drive.google.com/uc?id=1VNBeXlt2p9Lvjl9T5zNsIJwjalt6Xp0h)
+<img width="1440" alt="jira" src="https://user-images.githubusercontent.com/40352055/229467187-0e71f458-9bf9-45bb-90dc-576bb0f96cb3.png">
+
 
 ## Brief
 
@@ -102,7 +104,8 @@ Consume your API with a separate front-end built with React
 
 ## Planning
 
-![initial](https://drive.google.com/uc?id=1K7G3cs9Jf-ysWPhzRHzSM2RD4XoMJQgJ)
+<img width="1440" alt="figma" src="https://user-images.githubusercontent.com/40352055/229467611-24a2e446-4554-4801-8030-d17174eca7b1.png">
+
 
 Between the 3 of us, I was the only one who had previous experience with prototyping, so I was given the task of designing and managing the Figma prototype.
 
