@@ -68,7 +68,7 @@ We chose to work with JIRA  because it is the industry standard for planning and
 
 [JIRA](https://curiousgrape.atlassian.net/jira/software/projects/P3/boards/1)
 
-![JIRA](./jira.png)
+![JIRA](/readme/jira.png)
 
 ## Brief
 
@@ -102,7 +102,7 @@ Consume your API with a separate front-end built with React
 
 ## Planning
 
-![initial](./figma.png)
+![initial](/readme/figma.png)
 
 Between the 3 of us, I was the only one who had previous experience with prototyping, so I was given the task of designing and managing the Figma prototype.
 
@@ -241,7 +241,7 @@ start()
 
 Once that was connected, I could test that it was working in my terminal by using the command line to search for objects that were saved in my database.
 
-![query](./query.png)
+![query](/readme/query.png)
 
 ```
 with app.app_context():
